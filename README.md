@@ -1,8 +1,8 @@
-#My First Angular Attempt#
+# My First Angular Attempt
 
-###I made a random cliche generator with Angular###
+### I made a random cliche generator with Angular
 
-####To see the app, open the index.html file with Google Chrome####
+#### To see the app, open the index.html file with Google Chrome
 
 - Why did you choose this subject?
     - I chose Angular because I have a job interview with an organization that uses Angular
